@@ -1,0 +1,3 @@
+interface IFigures {
+    double Calculator();
+}
